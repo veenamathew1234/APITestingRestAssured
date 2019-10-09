@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="7947" started-at="2019-10-03T03:31:21Z" finished-at="2019-10-03T03:31:29Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="7947" started-at="2019-10-03T03:31:21Z" finished-at="2019-10-03T03:31:29Z">
+      <class name="OauthDemo.PetfinderAPITestingOauth2">
+        <test-method status="PASS" signature="getAnimalBasedOnID()[pri:0, instance:OauthDemo.PetfinderAPITestingOauth2@ae45eb6]" name="getAnimalBasedOnID" duration-ms="4810" started-at="2019-10-03T09:01:21Z" finished-at="2019-10-03T09:01:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAnimalBasedOnID -->
+        <test-method status="PASS" signature="getFindAnimalsTest()[pri:0, instance:OauthDemo.PetfinderAPITestingOauth2@ae45eb6]" name="getFindAnimalsTest" duration-ms="3108" started-at="2019-10-03T09:01:25Z" finished-at="2019-10-03T09:01:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getFindAnimalsTest -->
+      </class> <!-- OauthDemo.PetfinderAPITestingOauth2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
