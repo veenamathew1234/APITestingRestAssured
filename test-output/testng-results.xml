@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="7947" started-at="2019-10-03T03:31:21Z" finished-at="2019-10-03T03:31:29Z">
+  <suite name="Default suite" duration-ms="4755" started-at="2019-10-22T11:10:18Z" finished-at="2019-10-22T11:10:22Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="7947" started-at="2019-10-03T03:31:21Z" finished-at="2019-10-03T03:31:29Z">
-      <class name="OauthDemo.PetfinderAPITestingOauth2">
-        <test-method status="PASS" signature="getAnimalBasedOnID()[pri:0, instance:OauthDemo.PetfinderAPITestingOauth2@ae45eb6]" name="getAnimalBasedOnID" duration-ms="4810" started-at="2019-10-03T09:01:21Z" finished-at="2019-10-03T09:01:25Z">
+    <test name="Default test" duration-ms="4755" started-at="2019-10-22T11:10:18Z" finished-at="2019-10-22T11:10:22Z">
+      <class name="OauthDemo.OAuth1Demo">
+        <test-method status="PASS" signature="postTweet()[pri:1, instance:OauthDemo.OAuth1Demo@ae45eb6]" name="postTweet" duration-ms="3327" started-at="2019-10-22T16:40:18Z" finished-at="2019-10-22T16:40:21Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getAnimalBasedOnID -->
-        <test-method status="PASS" signature="getFindAnimalsTest()[pri:0, instance:OauthDemo.PetfinderAPITestingOauth2@ae45eb6]" name="getFindAnimalsTest" duration-ms="3108" started-at="2019-10-03T09:01:25Z" finished-at="2019-10-03T09:01:29Z">
+        </test-method> <!-- postTweet -->
+        <test-method status="PASS" signature="deleteTweet()[pri:2, instance:OauthDemo.OAuth1Demo@ae45eb6]" name="deleteTweet" duration-ms="1388" started-at="2019-10-22T16:40:21Z" finished-at="2019-10-22T16:40:22Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- getFindAnimalsTest -->
-      </class> <!-- OauthDemo.PetfinderAPITestingOauth2 -->
+        </test-method> <!-- deleteTweet -->
+      </class> <!-- OauthDemo.OAuth1Demo -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
